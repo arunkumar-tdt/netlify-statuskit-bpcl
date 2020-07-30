@@ -7,6 +7,6 @@ resolved = false
 +++
 RA Vendors sending invalid data to Cloud Server and server is rejecting it. But FCC is retrying the API with Same data again and again and again. This increases the server load by 30% and server is not able to serve other APIs calls. 
 
-In addition to this, Azure Managed Postgres DB is throwing query timeout error eventhough the resources are under-utilized. A Support ticket is Open with Microsoft. ID :: 120072923001646
+In addition to this, Azure Managed Postgres DB is throwing query timeout error eventhough the resources are under-utilized. A Support ticket(120XXXXXXXXXX46) is Open with Microsoft. 
 
 Progress with Microsoft Ticket will be updated here.
