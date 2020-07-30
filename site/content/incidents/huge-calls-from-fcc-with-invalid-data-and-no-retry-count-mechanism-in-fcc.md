@@ -1,7 +1,7 @@
 +++
 title = "Huge Calls from FCC with Invalid Data and No Retry Count mechanism in FCC"
-date = 2020-07-30T09:53:13.000Z
-severity = "partial-outage"
+date = 2020-07-30T15:30:00+05:30
+severity = "degraded-performance"
 affectedsystems = ["APIs", "Vendor Portal", "Discounts Portal", "Interlocks Portal"]
 resolved = false
 +++
