@@ -1,6 +1,6 @@
 +++
 title = "Huge Calls from FCC with Invalid Data and No Retry Count mechanism in FCC"
-date = 2020-07-30T15:30:00.000IST
+date = 2020-07-30T15:30:00.000+05:30
 severity = "degraded-performance"
 affectedsystems = ["APIs", "Vendor Portal", "Discounts Portal", "Interlocks Portal"]
 resolved = false
